@@ -1,0 +1,11 @@
+print("--------------------bienvenidos a mi calculadora-------------------")
+xd = input("ingresa tu primer número: ")
+wenas = input("ingresa tu segundo número: ")
+xd = int (xd)
+wenas = int (wenas)
+print ("la multiplicacion es:" ,xd*wenas)
+print  ("la division es: ",xd/wenas)
+print("la suma es: ",xd+wenas)
+print("la resta es: ",xd-wenas)
+print("=======================gracias=====================")
+
